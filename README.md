@@ -1,2 +1,2 @@
-# medium
-Source code for medium articles.
+# Medium Stories
+Source code for medium stories.
