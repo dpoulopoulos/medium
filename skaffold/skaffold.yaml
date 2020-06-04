@@ -1,0 +1,11 @@
+apiVersion: skaffold/v2beta4
+kind: Config
+metadata:
+  name: skaffold
+build:
+  artifacts:
+  - image: skaffold-example
+deploy:
+  kubectl:
+    manifests:
+    - pod.yaml
