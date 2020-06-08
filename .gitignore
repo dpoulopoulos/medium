@@ -145,4 +145,7 @@ dmypy.json
 # Ignore all local history of files
 .history
 
+### JetBrains IDEs ###
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebook,python
