@@ -147,5 +147,11 @@ dmypy.json
 
 ### JetBrains IDEs ###
 .idea
+.idea/*
+
+### Misc ###
+data
+model_store
+logs
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebook,python
