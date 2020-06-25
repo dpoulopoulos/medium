@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  vscodedocker:
+    image: vscodedocker
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 5000:5000
+      - 5678:5678
