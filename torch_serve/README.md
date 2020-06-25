@@ -1,6 +1,6 @@
 # TorchServe MNIST example
 
-In this example, we show how to use a pre-trained custom MNIST model to performing real time Digit recognition with TorchServe. The inference service would return the digit inferred by the model in the input image. This example is taken directly drom the TorchServe repo, [here](https://github.com/pytorch/serve/tree/master/examples/image_classifier/mnist).
+In this example, we show how to use a pre-trained custom MNIST model to performing real time Digit recognition with TorchServe. The inference service would return the digit inferred by the model in the input image. This example is taken directly from the TorchServe [repo](https://github.com/pytorch/serve/tree/master/examples/image_classifier/mnist).
 
 ## Setup
 
