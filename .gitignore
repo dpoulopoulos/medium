@@ -153,5 +153,6 @@ dmypy.json
 data
 model_store
 logs
+**/submission.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebook,python
